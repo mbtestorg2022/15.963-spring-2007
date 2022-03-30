@@ -4,6 +4,7 @@ description: This resource contains the information about managerial accounting 
   control in this course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-963-management-accounting-and-control-spring-2007/c97d4373f4e9f484ea32001aba5e9414_lec1.pdf
 file_type: application/pdf
+parent_uid: 09db57b7-6ecc-cd7b-5d76-b71b35fe0f91
 resourcetype: Document
 title: lec1.pdf
 uid: c97d4373-f4e9-f484-ea32-001aba5e9414

@@ -4,6 +4,7 @@ description: This resource contains the information about What is the competitiv
   environment MDD faces? in this course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-963-management-accounting-and-control-spring-2007/538145d46e14793c2313e3fb70f1c685_lec11.pdf
 file_type: application/pdf
+parent_uid: 09db57b7-6ecc-cd7b-5d76-b71b35fe0f91
 resourcetype: Document
 title: lec11.pdf
 uid: 538145d4-6e14-793c-2313-e3fb70f1c685
